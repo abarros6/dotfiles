@@ -19,5 +19,6 @@ link() {
 }
 
 link "claude/settings.json" ".claude/settings.json"
+link "claude/statusline-command.sh" ".claude/statusline-command.sh"
 
 echo "Done."
